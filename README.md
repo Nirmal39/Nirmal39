@@ -6,7 +6,7 @@ Hey there, I am a web and app developer based in India. People often tell me my 
 
 - 🌍  I'm based in India
 - ✉️  You can contact me at [nirmalg058gmail.com](mailto:nirmalg058@gmail.com)
-- 🚀  I'm currently working on [Glucian India pvt Ltd](https://www.glucian.com/). you might want to check it out.
+- 🚀  I'm currently working on Mphasis Limited.
 - 🧠  I'm learning NextJs 
 - 🤝  I'm trying to collaborate on Open source projects
 - ⚡  I have a degree in Computer Science and engineering, so i would like to code in Dreams.
