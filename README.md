@@ -2,7 +2,7 @@
 
 ## Developer
 
-Hey there, I am a web and app developer based in India. People often tell me my name sounds godly, but I like to think it's my coding skills that are really godly! Right now, I'm working on a project called E-commerce. But let's be real - my real superpower is making sure that every website and app I create has the perfect shade of blue in the color scheme. I'm always up for a coding challenge, so hit me up if you need a partner or want to collaborate on an open source project. Just make sure to bring coffee, because let's be real, coding without caffeine is like trying to drive a car with no gas!
+Hey there, I am a web and app developer based in India. People often tell me my name sounds godly, but I like to think it's my coding skills that are really godly! Right now, I'm working on Mphasis. But let's be real - my real superpower is making sure that every website and app I create has the perfect shade of blue in the color scheme. "I'm always up for a coding quest, so hit me up if you need a partner or want to collaborate on an open source project. Just make sure to bring coffee, because let's be real, coding without caffeine is like trying to drive a car with no gas!
 
 - 🌍  I'm based in India
 - ✉️  You can contact me at [nirmalg058gmail.com](mailto:nirmalg058@gmail.com)
